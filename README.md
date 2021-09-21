@@ -1,11 +1,11 @@
 ### Hi there 👋
-  I'm a CS+AI Student at UoN and VP of [HackSocNotts](https://github.com/HackSocNotts]).
+  I'm a protoacademic going into a PhD looking at spectral modeling
 
 ### 🔭 I’m currently working on...
-  Imbalance learning in astroinformatics for my 3rd year dissertation.
+  Nonsense, while I still can.
   
 ### 🌱 I’m currently learning...
-  PyTorch as well as just working on my Python. 
+  Julia as a new language.
   
 ### 👯 I’m looking to collaborate on...
   Machine Learning research and discord bots. 
