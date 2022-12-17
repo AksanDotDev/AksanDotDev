@@ -1,26 +1,26 @@
 ### Hi there 👋
-  I'm a protoacademic going into a PhD looking at spectral modeling
+  I'm a PhD student looking at how computer vision models see colour.
 
 ### 🔭 I’m currently working on...
-  Nonsense, while I still can.
+  Experiments and AoC.
   
 ### 🌱 I’m currently learning...
-  Julia as a new language.
+  PyTorch Lightning, and PyParsing.
   
 ### 👯 I’m looking to collaborate on...
-  Machine Learning research and discord bots. 
+  Computer vision research and discord bots. 
   
 ### 🤔 I’m looking for help with...
-  Web dev, always web dev.
+  Probably the parsing, or where to start learning Rust.
   
 ### 💬 Ask me about...
-  AI, Machine Learning, Imbalance Learning, SciFi, My Computers.
+  AI, Machine Learning, Computer Vision, Imbalance Learning, My Computers, Writing.
   
 ### 📫 How to reach me:...
   @AksanDotDev(#8888) on Twitter and Discord or git@aksan.dev.
   
 ### 😄 Pronouns:...
-  Any and all, typically he/him but will happily answer to any. 
+  Any and all, typically they/them but will answer to any. 
   
 ### ⚡ Fun fact:...
-  I name all the computers in my house after greek deities. 
+  I name all the computers in my house after Greek deities and have lots of Lego models around. 
