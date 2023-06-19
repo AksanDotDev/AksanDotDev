@@ -17,7 +17,7 @@
   AI, Machine Learning, Computer Vision, Imbalance Learning, My Computers, Writing.
   
 ### 📫 How to reach me:...
-  @AksanDotDev(#8888) on Twitter and Discord or git@aksan.dev.
+  @AksanDotDev on Twitter and Discord or git@aksan.dev.
   
 ### 😄 Pronouns:...
   Any and all, typically they/them but will answer to any. 
