@@ -23,4 +23,4 @@
   They/them for us, and for Alexis, she/her for Charly.
   
 ### ⚡ Fun fact:
-  We name all the computers in my house after Greek deities and have lots of Lego models around. Oh, and perhaps that we're [plural]([aksan.de](https://www.aksan.dev/about-us/our-nature))?
+  We name all the computers in my house after Greek deities and have lots of Lego models around. Oh, and perhaps that we're [plural](https://www.aksan.dev/about-us/our-nature)?
